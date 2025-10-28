@@ -27,7 +27,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.NikitinRYu.Sprint3.Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.NikitinRYu.Sprint3.Task2.V2.Test", "Tyuiu.NikitinRYu.Sprint3.Task2.V2.Test\Tyuiu.NikitinRYu.Sprint3.Task2.V2.Test.csproj", "{292FFBE0-5E34-4F74-ABA4-51F0D3968C50}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{45731977-8DC6-423B-874B-1213E048571C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task30", "Task30", "{45731977-8DC6-423B-874B-1213E048571C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.NikitinRYu.Sprint3.Task3.V22", "Tyuiu.NikitinRYu.Sprint3.Task2.V22\Tyuiu.NikitinRYu.Sprint3.Task3.V22.csproj", "{D7158135-1545-41E5-A384-A6983B1AA77B}"
 EndProject
